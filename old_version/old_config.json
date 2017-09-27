@@ -1,0 +1,102 @@
+{
+	"entries": [
+		{
+			"name": "GodMode9 SDcard (latest release)",
+			"url": "https://github.com/d0k3/GodMode9",
+			"inrelease": "GodMode9-*-*.zip",
+			"inarchive": "GodMode9.firm",
+			"path": "/luma/payloads/GodMode9.firm"
+		},
+		{ 
+			"name": "GodMode9 CTRNAND (latest release)",
+			"url": "https://github.com/d0k3/GodMode9",
+			"inrelease": "GodMode9-*-*.zip",
+			"inarchive": "GodMode9.firm",
+			"path": "ctrnand:/rw/luma/payloads/GodMode9.firm"
+		},
+		{
+			"name": "Decrypt9WIP (latest release)",
+			"url": "https://github.com/d0k3/Decrypt9WIP/",
+			"inrelease": "Decrypt9WIP-*-*.zip",
+			"inarchive": "Decrypt9WIP.firm",
+			"path": "/luma/payloads/Decrypt9WIP.firm"
+		},
+		{
+			"name": "Hourglass9 (latest release)",
+			"url": "https://github.com/d0k3/Hourglass9/",
+			"inrelease": "Hourglass9-*-*.zip",
+			"inarchive": "Hourglass9.firm",
+			"path": "/luma/payloads/Hourglass9.firm"
+		},
+		{
+			"name": "ntrboot Flasher",
+			"url": "https://github.com/kitling/ntrboot_flasher/",
+			"inrelease": "ntrboot_flasher.firm",
+			"path": "/luma/payloads/ntrboot_flasher.firm"
+		},
+		{ 
+			"name": "MultiUpdater CIA",
+			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"inarchive": "MultiUpdater.cia",
+			"path": "/cias/MultiUpdater.cia"
+		},
+		{
+			"name": "MultiUpdater 3DSX",
+			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"inarchive": "3ds/MultiUpdater/MultiUpdater.3dsx",
+			"path": "/3ds/MultiUpdater/MultiUpdater.3dsx"
+		},
+		{ 
+			"name": "Themely CIA",
+			"url": "https://github.com/ihaveamac/Themely/",
+			"inrelease": "Themely.cia",
+			"path": "/cias/Themely.cia"
+		},
+		{ 
+			"name": "Themely 3DSX",
+			"url": "https://github.com/ihaveamac/Themely/",
+			"inrelease": "Themely.3dsx",
+			"path": "/3ds/Themely/Themely.3dsx"
+		},
+		{ 
+			"name": "PKSM CIA (latest release)",
+			"url": "https://github.com/BernardoGiordano/PKSM/",
+			"inrelease": "PKSM.cia",
+			"path": "/cias/PKSM.cia"
+		},
+		{ 
+			"name": "FBI CIA",
+			"url": "https://github.com/Steveice10/FBI/",
+			"inrelease": "FBI.cia",
+			"path": "/cias/FBI.cia"
+		},
+		{
+			"name": "FBI 3DSX",
+			"url": "https://github.com/Steveice10/FBI/",
+			"inrelease": "FBI.3dsx",
+			"path": "/3ds/FBI/FBI.3dsx"
+		
+		},
+		{
+			"name": "Anemone3DS CIA",
+			"url": "https://github.com/astronautlevel2/Anemone3DS/",
+			"inrelease": "Anemone3DS.cia",
+			"path": "/cias/Anemone3DS.cia"
+		
+		},
+		{
+			"name": "Anemone3DS 3DSX",
+			"url": "https://github.com/astronautlevel2/Anemone3DS/",
+			"inrelease": "Anemone3DS.3dsx",
+			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
+		
+		},
+		{
+			"name": "",
+			"url": "",
+			"inrelease": "",
+			"inarchive": "",
+			"path": ""
+		}
+	]
+}
