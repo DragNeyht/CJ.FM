@@ -66,6 +66,13 @@
 			"path": "/cias/PKSM.cia"
 		},
 		{
+			"name": "PKSM 3DSX",
+			"url": "https://github.com/BernardoGiordano/PKSM",
+			"inrelease": "PKSM\\.zip",
+			"inarchive": "rosalina/PKSM.3dsx",
+			"path": "/3ds/PKSM/PKSM.3dsx"
+		},
+		{
 			"name": "FBI CIA",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
@@ -98,7 +105,7 @@
 			"inrelease": "Themely\\.cia",
 			"path": "/cias/Themely.cia"
 		},
-		{ 
+		{
 			"name": "Themely 3DSX",
 			"url": "https://github.com/ihaveamac/Themely",
 			"inrelease": "Themely\\.3dsx",
@@ -109,6 +116,18 @@
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident_GUI\\.cia",
 			"path": "/cias/3DSident_GUI.cia"
+		},
+		{
+			"name": "Checkpoint CIA",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint.cia",
+			"path": "/cias/Checkpoint.cia"
+		},
+		{
+			"name": "Checkpoint 3DSX",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint.3dsx",
+			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
 		}
 	]
 }
