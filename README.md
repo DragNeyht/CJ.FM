@@ -10,7 +10,7 @@ This is the config.json by DragNeyht for [MultiUpdater](https://github.com/Liqui
 * [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) by LiquidFenrir
 * [PKSM](https://github.com/BernardoGiordano/PKSM) by BernardoGiordano
 * [FBI](https://github.com/Steveice10/FBI) by Steveice10
-* [Anemone3DS)](https://github.com/astronautlevel2/Anemone3DS) by astronautlevel2
+* [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS) by astronautlevel2
 * [Themely](https://github.com/ihaveamac/Themely) by erman1337 (original), ihaveamac (Fork)
 * [3DSident](https://github.com/joel16/3DSident) by joel16
 * [Checkpoint](https://github.com/BernardoGiordano/Checkpoint) by BernardoGiordano
