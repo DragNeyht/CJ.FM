@@ -6,7 +6,7 @@ This is the config.json by DragNeyht for [MultiUpdater](https://github.com/Liqui
 * [GodMode9](https://github.com/d0k3/GodMode9) by d0k3
 * [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP) by d0k3
 * [Hourglass9](https://github.com/d0k3/Hourglass9) by d0k3
-* [ntrboot_flasher](https://github.com/kitling/ntrboot_flasher) by kitling
+* [ntrboot_flasher](https://github.com/ntrteam/ntrboot_flasher) by ntrteam
 * [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) by LiquidFenrir
 * [PKSM](https://github.com/BernardoGiordano/PKSM) by BernardoGiordano
 * [FBI](https://github.com/Steveice10/FBI) by Steveice10
