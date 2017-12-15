@@ -120,8 +120,8 @@
 		{
 			"name": "3DSident GUI CIA",
 			"url": "https://github.com/joel16/3DSident",
-			"inrelease": "3DSident_GUI\\.cia",
-			"path": "/cias/3DSident_GUI.cia"
+			"inrelease": "3DSident-GUI\\.cia",
+			"path": "/cias/3DSident-GUI.cia"
 		},
 		{
 			"name": "Checkpoint CIA",
