@@ -1,4 +1,4 @@
-# CJ.FM (config.json for MultiUpdater)
+# CJ.FM
 This is the config.json by DragNeyht for [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) by LiquidFenrir.
 
 # List of supported applications
