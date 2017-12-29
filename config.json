@@ -49,7 +49,7 @@
 		},
 		{
 			"name": "config.json",
-			"url": "https://github.com/DragNeyht/Multiupdater_config",
+			"url": "https://github.com/DragNeyht/CJ.FM",
 			"inrelease": "config\\.json",
 			"path": "/3ds/MultiUpdater/config.json"
 		},
