@@ -50,7 +50,7 @@
 		{
 			"name": "config.json",
 			"url": "https://github.com/DragNeyht/CJ.FM",
-			"inrelease": "config\\.json",
+			"inrelease": "config.json",
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
@@ -106,34 +106,40 @@
 
 		},
 		{
-			"name": "Themely CIA",
-			"url": "https://github.com/ihaveamac/Themely",
-			"inrelease": "Themely\\.cia",
-			"path": "/cias/Themely.cia"
-		},
-		{
-			"name": "Themely 3DSX",
-			"url": "https://github.com/ihaveamac/Themely",
-			"inrelease": "Themely\\.3dsx",
-			"path": "/3ds/Themely/Themely.3dsx"
-		},
-		{
 			"name": "3DSident GUI CIA",
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident-GUI\\.cia",
 			"path": "/cias/3DSident-GUI.cia"
 		},
 		{
+			"name": "3DSident GUI 3DSX",
+			"url": "https://github.com/joel16/3DSident",
+			"inrelease": "3DSident-GUI\\.3dsx",
+			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
+		},
+		{
 			"name": "Checkpoint CIA",
 			"url": "https://github.com/BernardoGiordano/Checkpoint",
-			"inrelease": "Checkpoint.cia",
+			"inrelease": "Checkpoint\\.cia",
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
 			"name": "Checkpoint 3DSX",
 			"url": "https://github.com/BernardoGiordano/Checkpoint",
-			"inrelease": "Checkpoint.3dsx",
+			"inrelease": "Checkpoint\\.3dsx",
 			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
+		},
+		{
+			"name": "3DShell CIA",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.cia",
+			"path": "/cias/3DShell.cia",
+		},
+		{
+			"name": "3DShell 3DSX",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.3dsx",
+			"path": "/3ds/3DShell/3DShell.3dsx"
 		}
 	]
 }
