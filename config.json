@@ -55,13 +55,15 @@
 		},
 		{
 			"name": "MultiUpdater CIA",
-			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"url": "https://github.com/LiquidFenrir/MultiUpdater",
+			"inrelease": "MultiUpdater-v.*\\.zip",
 			"inarchive": "MultiUpdater\\.cia",
 			"path": "/cias/MultiUpdater.cia"
 		},
 		{
 			"name": "MultiUpdater 3DSX",
-			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"url": "https://github.com/LiquidFenrir/MultiUpdater",
+			"inrelease": "MultiUpdater-v.*\\.zip",
 			"inarchive": "3ds/MultiUpdater/MultiUpdater\\.3dsx",
 			"path": "/3ds/MultiUpdater/MultiUpdater.3dsx"
 		},
