@@ -1,0 +1,122 @@
+{
+		"config": {
+		"self_updater": false,
+		"delete_archives": true,
+		"delete_cias": true
+		},
+
+	"entries": [
+		{
+			"name": "GodMode9 SDcard",
+			"url": "https://static.wiidatabase.de/GodMode9.zip",
+			"inarchive": "GodMode9\\.firm",
+			"path": "/luma/payloads/GodMode9.firm"
+		},
+		{
+			"name": "GodMode9 CTRNAND",
+			"url": "https://static.wiidatabase.de/GodMode9.zip",
+			"inarchive": "GodMode9\\.firm",
+			"path": "ctrnand:/rw/luma/payloads/GodMode9.firm"
+		},
+		{
+			"name": "Decrypt9WIP",
+			"url": "https://static.wiidatabase.de/Decrypt9.zip",
+			"inarchive": "Decrypt9WIP\\.firm",
+			"path": "/luma/payloads/Decrypt9WIP.firm"
+		},
+		{
+			"name": "Hourglass9",
+			"url": "https://static.wiidatabase.de/Hourglass9.zip",
+			"inarchive": "Hourglass9\\.firm",
+			"path": "/luma/payloads/Hourglass9.firm"
+		},
+		{
+			"name": "ntrboot_flasher",
+			"url": "https://static.wiidatabase.de/ntrboot-Flasher.zip",
+			"inarchive": "ntrboot_flasher\\.firm",
+			"path": "/luma/payloads/ntrboot_flasher.firm"
+		},
+		{
+			"name": "",
+			"url": "",
+			"inrelease": "",
+			"inarchive": "",
+			"path": ""
+		},
+		{
+			"name": "MultiUpdater CIA",
+			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"inarchive": "MultiUpdater\\.cia",
+			"path": "/cias/MultiUpdater.cia"
+		},
+		{
+			"name": "MultiUpdater 3DSX",
+			"url": "https://static.wiidatabase.de/MultiUpdater.zip",
+			"inarchive": "3ds/MultiUpdater/MultiUpdater\\.3dsx",
+			"path": "/3ds/MultiUpdater/MultiUpdater.3dsx"
+		},
+		{
+			"name": "FBI CIA",
+			"url": "https://static.wiidatabase.de/FBI.zip",
+			"inarchive": "3ds-arm/FBI\\.cia",
+			"path": "/cias/FBI.cia"
+		},
+		{
+			"name": "FBI 3DSX",
+			"url": "https://static.wiidatabase.de/FBI.zip",
+			"inarchive": "3ds-arm/3ds/FBI/FBI\\.3dsx",
+			"path": "/3ds/FBI/FBI.3dsx"
+
+		},
+		{
+			"name": "Anemone3DS CIA",
+			"url": "https://static.wiidatabase.de/Anemone3DS.zip",
+			"inarchive": "Anemone3DS\\.cia",
+			"path": "/cias/Anemone3DS.cia"
+
+		},
+		{
+			"name": "Anemone3DS 3DSX",
+			"url": "https://static.wiidatabase.de/Anemone3DS.zip",
+			"inarchive": "Anemone3DS\\.3dsx",
+			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
+
+		},
+		{
+			"name": "3DSident GUI CIA",
+			"url": "https://static.wiidatabase.de/3DSIdent.zip",
+			"inarchive": "3DSident-GUI\\.cia",
+			"path": "/cias/3DSident-GUI.cia"
+		},
+		{
+			"name": "3DSident GUI 3DSX",
+			"url": "https://static.wiidatabase.de/3DSIdent.zip",
+			"inarchive": "3DS/3DSident-GUI/3DSident-GUI\\.3dsx",
+			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
+		},
+		{
+			"name": "Checkpoint CIA",
+			"url": "https://static.wiidatabase.de/Checkpoint.zip",
+			"inarchive": "Checkpoint\\.cia",
+			"path": "/cias/Checkpoint.cia"
+		},
+		{
+			"name": "Checkpoint 3DSX",
+			"url": "https://static.wiidatabase.de/Checkpoint.zip",
+			"inarchive": "Checkpoint\\.3dsx",
+			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
+		},
+		{
+			"name": "3DShell CIA",
+			"url": "https://static.wiidatabase.de/3DShell.zip",
+			"inarchive": "3DShell\\.cia",
+			"path": "/cias/3DShell.cia"
+		},
+		{
+			"name": "3DShell 3DSX",
+			"url": "https://static.wiidatabase.de/3DShell.zip",
+			"inarchive": "3DShell\\.3dsx",
+			"path": "/3ds/3DShell/3DShell.3dsx"
+		}
+	]
+}
