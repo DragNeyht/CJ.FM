@@ -54,6 +54,68 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
+			"name": "3DShell CIA",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.cia",
+			"path": "/cias/3DShell.cia"
+		},
+		{
+			"name": "3DShell 3DSX",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.3dsx",
+			"path": "/3ds/3DShell/3DShell.3dsx"
+		},
+		{
+			"name": "3DSident GUI CIA",
+			"url": "https://github.com/joel16/3DSident",
+			"inrelease": "3DSident-GUI\\.cia",
+			"path": "/cias/3DSident-GUI.cia"
+		},
+		{
+			"name": "3DSident GUI 3DSX",
+			"url": "https://github.com/joel16/3DSident",
+			"inrelease": "3DSident-GUI\\.3dsx",
+			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
+		},
+		{
+			"name": "Anemone3DS CIA",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.cia",
+			"path": "/cias/Anemone3DS.cia"
+
+		},
+		{
+			"name": "Anemone3DS 3DSX",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.3dsx",
+			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
+
+		},
+		{
+			"name": "Checkpoint CIA",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.cia",
+			"path": "/cias/Checkpoint.cia"
+		},
+		{
+			"name": "Checkpoint 3DSX",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.3dsx",
+			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
+		},
+		{
+			"name": "FBI CIA",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.cia",
+			"path": "/cias/FBI.cia"
+		},
+		{
+			"name": "FBI 3DSX",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.3dsx",
+			"path": "/3ds/FBI/FBI.3dsx"
+		},
+		{
 			"name": "MultiUpdater CIA",
 			"url": "https://github.com/LiquidFenrir/MultiUpdater",
 			"inrelease": "MultiUpdater-v.*\\.zip",
@@ -81,67 +143,16 @@
 			"path": "/3ds/PKSM/PKSM.3dsx"
 		},
 		{
-			"name": "FBI CIA",
-			"url": "https://github.com/Steveice10/FBI",
-			"inrelease": "FBI\\.cia",
-			"path": "/cias/FBI.cia"
+			"name": "WifiManager CIA",
+			"url": "https://github.com/LiquidFenrir/WifiManager",
+			"inrelease": "WifiManager\\.cia",
+			"path": "/cias/WifiManager.cia"
 		},
 		{
-			"name": "FBI 3DSX",
-			"url": "https://github.com/Steveice10/FBI",
-			"inrelease": "FBI\\.3dsx",
-			"path": "/3ds/FBI/FBI.3dsx"
-
-		},
-		{
-			"name": "Anemone3DS CIA",
-			"url": "https://github.com/astronautlevel2/Anemone3DS",
-			"inrelease": "Anemone3DS\\.cia",
-			"path": "/cias/Anemone3DS.cia"
-
-		},
-		{
-			"name": "Anemone3DS 3DSX",
-			"url": "https://github.com/astronautlevel2/Anemone3DS",
-			"inrelease": "Anemone3DS\\.3dsx",
-			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
-
-		},
-		{
-			"name": "3DSident GUI CIA",
-			"url": "https://github.com/joel16/3DSident",
-			"inrelease": "3DSident-GUI\\.cia",
-			"path": "/cias/3DSident-GUI.cia"
-		},
-		{
-			"name": "3DSident GUI 3DSX",
-			"url": "https://github.com/joel16/3DSident",
-			"inrelease": "3DSident-GUI\\.3dsx",
-			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
-		},
-		{
-			"name": "Checkpoint CIA",
-			"url": "https://github.com/BernardoGiordano/Checkpoint",
-			"inrelease": "Checkpoint\\.cia",
-			"path": "/cias/Checkpoint.cia"
-		},
-		{
-			"name": "Checkpoint 3DSX",
-			"url": "https://github.com/BernardoGiordano/Checkpoint",
-			"inrelease": "Checkpoint\\.3dsx",
-			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
-		},
-		{
-			"name": "3DShell CIA",
-			"url": "https://github.com/joel16/3DShell",
-			"inrelease": "3DShell\\.cia",
-			"path": "/cias/3DShell.cia"
-		},
-		{
-			"name": "3DShell 3DSX",
-			"url": "https://github.com/joel16/3DShell",
-			"inrelease": "3DShell\\.3dsx",
-			"path": "/3ds/3DShell/3DShell.3dsx"
+			"name": "WifiManager 3DSX",
+			"url": "https://github.com/LiquidFenrir/WifiManager",
+			"inrelease": "WifiManager\\.3dsx",
+			"path": "/3ds/WifiManager/WifiManager.3dsx"
 		}
 	]
 }
