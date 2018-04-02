@@ -1,6 +1,8 @@
 # CJ.FM
 This is the config.json by DragNeyht for [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) by LiquidFenrir.
 
+![Screenshot of MultiUpdater with my config](https://raw.githubusercontent.com/DragNeyht/CJ.FM/master/misc/img.png)
+
 # List of supported applications
 
 * [GodMode9](https://github.com/d0k3/GodMode9) by d0k3
