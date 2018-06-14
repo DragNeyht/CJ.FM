@@ -143,6 +143,18 @@
 			"path": "/3ds/PKSM/PKSM.3dsx"
 		},
 		{
+			"name": "QRaken CIA",
+			"url": "https://github.com/BernardoGiordano/QRaken",
+			"inrelease": "QRaken\\.cia",
+			"path": "/cias/QRaken.cia"
+		},
+		{
+			"name": "QRaken 3DSX",
+			"url": "https://github.com/BernardoGiordano/QRaken",
+			"inrelease": "QRaken.3dsx",
+			"path": "/3ds/QRaken/QRaken.3dsx"
+		},
+		{
 			"name": "WifiManager CIA",
 			"url": "https://github.com/LiquidFenrir/WifiManager",
 			"inrelease": "WifiManager\\.cia",
