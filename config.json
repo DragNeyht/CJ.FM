@@ -48,7 +48,7 @@
 			"path": ""
 		},
 		{
-			"name": "config.json",
+			"name": "config.json v1.3.2",
 			"url": "https://github.com/DragNeyht/CJ.FM",
 			"inrelease": "config.json",
 			"path": "/3ds/MultiUpdater/config.json"
@@ -151,8 +151,20 @@
 		{
 			"name": "QRaken 3DSX",
 			"url": "https://github.com/BernardoGiordano/QRaken",
-			"inrelease": "QRaken.3dsx",
+			"inrelease": "QRaken\\.3dsx",
 			"path": "/3ds/QRaken/QRaken.3dsx"
+		},
+		{
+			"name": "Sharkive CIA",
+			"url": "https://github.com/BernardoGiordano/Sharkive",
+			"inrelease": "Sharkive\\.cia",
+			"path": "/cias/Sharkive.cia"
+		},
+		{
+			"name": "Sharkive 3DSX",
+			"url": "https://github.com/BernardoGiordano/Sharkive",
+			"inrelease": "Sharkive\\.3dsx",
+			"path": "/3ds/Sharkive/Sharkive.3dsx"
 		},
 		{
 			"name": "WifiManager CIA",
