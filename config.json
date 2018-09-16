@@ -48,7 +48,7 @@
 			"path": ""
 		},
 		{
-			"name": "config.json v1.3.2",
+			"name": "config.json v1.3.3",
 			"url": "https://github.com/DragNeyht/CJ.FM",
 			"inrelease": "config.json",
 			"path": "/3ds/MultiUpdater/config.json"
@@ -93,13 +93,13 @@
 		},
 		{
 			"name": "Checkpoint CIA",
-			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"url": "https://github.com/FlagBrew/Checkpoint",
 			"inrelease": "Checkpoint\\.cia",
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
 			"name": "Checkpoint 3DSX",
-			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"url": "https://github.com/FlagBrew/Checkpoint",
 			"inrelease": "Checkpoint\\.3dsx",
 			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
 		},
@@ -131,13 +131,13 @@
 		},
 		{
 			"name": "PKSM CIA",
-			"url": "https://github.com/BernardoGiordano/PKSM",
+			"url": "https://github.com/FlagBrew/PKSM",
 			"inrelease": "PKSM\\.cia",
 			"path": "/cias/PKSM.cia"
 		},
 		{
 			"name": "PKSM 3DSX",
-			"url": "https://github.com/BernardoGiordano/PKSM",
+			"url": "https://github.com/FlagBrew/PKSM",
 			"inrelease": "PKSM\\.zip",
 			"inarchive": "rosalina/PKSM.3dsx",
 			"path": "/3ds/PKSM/PKSM.3dsx"
@@ -150,19 +150,19 @@
 		},
 		{
 			"name": "QRaken 3DSX",
-			"url": "https://github.com/BernardoGiordano/QRaken",
+			"url": "https://github.com/FlagBrew/QRaken",
 			"inrelease": "QRaken\\.3dsx",
 			"path": "/3ds/QRaken/QRaken.3dsx"
 		},
 		{
 			"name": "Sharkive CIA",
-			"url": "https://github.com/BernardoGiordano/Sharkive",
+			"url": "https://github.com/FlagBrew/Sharkive",
 			"inrelease": "Sharkive\\.cia",
 			"path": "/cias/Sharkive.cia"
 		},
 		{
 			"name": "Sharkive 3DSX",
-			"url": "https://github.com/BernardoGiordano/Sharkive",
+			"url": "https://github.com/FlagBrew/Sharkive",
 			"inrelease": "Sharkive\\.3dsx",
 			"path": "/3ds/Sharkive/Sharkive.3dsx"
 		},
