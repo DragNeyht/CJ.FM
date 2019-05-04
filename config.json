@@ -48,7 +48,7 @@
 			"path": ""
 		},
 		{
-			"name": "config.json v1.3.3",
+			"name": "config.json v1.3.4",
 			"url": "https://github.com/DragNeyht/CJ.FM",
 			"inrelease": "config.json",
 			"path": "/3ds/MultiUpdater/config.json"
@@ -138,8 +138,7 @@
 		{
 			"name": "PKSM 3DSX",
 			"url": "https://github.com/FlagBrew/PKSM",
-			"inrelease": "PKSM\\.zip",
-			"inarchive": "rosalina/PKSM.3dsx",
+			"inrelease": "PKSM\\.3dsx",
 			"path": "/3ds/PKSM/PKSM.3dsx"
 		},
 		{
