@@ -158,6 +158,18 @@
 			"path": "/3ds/Sharkive/Sharkive.3dsx"
 		},
 		{
+			"name": "Universal-Updater CIA by Universal-Updater",
+			"url": "https://github.com/Universal-Team/Universal-Updater",
+			"inrelease": "Universal-Updater\\.cia",
+			"path": "/cias/Universal-Updater.cia"
+		},
+		{
+			"name": "Universal-Updater 3DSX",
+			"url": "https://github.com/Universal-Team/Universal-Updater",
+			"inrelease": "Universal-Updater\\.3dsx",
+			"path": "/3ds/Universal-Updater/Universal-Updater.3dsx"
+		},
+		{
 			"name": "WifiManager CIA by LiquidFenrir",
 			"url": "https://github.com/LiquidFenrir/WifiManager",
 			"inrelease": "WifiManager\\.cia",

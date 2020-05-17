@@ -18,6 +18,7 @@ This is the config.json by DragNeyht for [MultiUpdater](https://github.com/Liqui
 * [PKSM](https://github.com/FlagBrew/PKSM) by FlagBrew
 * [Sharkive](https://github.com/FlagBrew/Sharkive) by FlagBrew
 * [JKSM](https://github.com/J-D-K/JKSM) by J-D-K
+* [Universal-Updater](https://github.com/Universal-Team/Universal-Updater) by Universal-Updater
 
 # License
 This project is licensed under the MIT license. A copy of which can be found in the [LICENSE file](https://github.com/DragNeyht/Multiupdater_config/blob/master/LICENSE).
