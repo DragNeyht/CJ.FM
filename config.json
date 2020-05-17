@@ -7,7 +7,7 @@
 
 	"entries": [
 		{
-			"name": "GodMode9 SDcard",
+			"name": "GodMode9 SDcard by d0k3",
 			"url": "https://github.com/d0k3/GodMode9",
 			"inrelease": "GodMode9.*\\.zip",
 			"inarchive": "GodMode9\\.firm",
@@ -21,7 +21,7 @@
 			"path": "ctrnand:/rw/luma/payloads/GodMode9.firm"
 		},
 		{
-			"name": "ntrboot_flasher",
+			"name": "ntrboot_flasher by ntrteam",
 			"url": "https://github.com/ntrteam/ntrboot_flasher",
 			"inrelease": "ntrboot_flasher\\.firm",
 			"path": "/luma/payloads/ntrboot_flasher.firm"
@@ -46,7 +46,7 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
-			"name": "3DShell CIA",
+			"name": "3DShell CIA by joel16",
 			"url": "https://github.com/joel16/3DShell",
 			"inrelease": "3DShell\\.cia",
 			"path": "/cias/3DShell.cia"
@@ -58,7 +58,7 @@
 			"path": "/3ds/3DShell/3DShell.3dsx"
 		},
 		{
-			"name": "3DSident GUI CIA",
+			"name": "3DSident GUI CIA by joel16",
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident-GUI\\.cia",
 			"path": "/cias/3DSident-GUI.cia"
@@ -70,7 +70,7 @@
 			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
 		},
 		{
-			"name": "Anemone3DS CIA",
+			"name": "Anemone3DS CIA by astronautlevel2",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
 			"path": "/cias/Anemone3DS.cia"
@@ -84,7 +84,7 @@
 
 		},
 		{
-			"name": "Checkpoint CIA",
+			"name": "Checkpoint CIA by FlagBrew",
 			"url": "https://github.com/FlagBrew/Checkpoint",
 			"inrelease": "Checkpoint\\.cia",
 			"path": "/cias/Checkpoint.cia"
@@ -108,7 +108,7 @@
 			"path": "/3ds/JKSM/JKSM.3dsx"
 		},
 		{
-			"name": "FBI CIA",
+			"name": "FBI CIA by Steveice10",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
 			"path": "/cias/FBI.cia"
@@ -120,7 +120,7 @@
 			"path": "/3ds/FBI/FBI.3dsx"
 		},
 		{
-			"name": "MultiUpdater CIA",
+			"name": "MultiUpdater CIA by LiquidFenrir",
 			"url": "https://github.com/LiquidFenrir/MultiUpdater",
 			"inrelease": "MultiUpdater-v.*\\.zip",
 			"inarchive": "MultiUpdater\\.cia",
@@ -134,7 +134,7 @@
 			"path": "/3ds/MultiUpdater/MultiUpdater.3dsx"
 		},
 		{
-			"name": "PKSM CIA",
+			"name": "PKSM CIA by FlagBrew",
 			"url": "https://github.com/FlagBrew/PKSM",
 			"inrelease": "PKSM\\.cia",
 			"path": "/cias/PKSM.cia"
@@ -146,7 +146,7 @@
 			"path": "/3ds/PKSM/PKSM.3dsx"
 		},
 		{
-			"name": "Sharkive CIA",
+			"name": "Sharkive CIA by FlagBrew",
 			"url": "https://github.com/FlagBrew/Sharkive",
 			"inrelease": "Sharkive\\.cia",
 			"path": "/cias/Sharkive.cia"
@@ -158,7 +158,7 @@
 			"path": "/3ds/Sharkive/Sharkive.3dsx"
 		},
 		{
-			"name": "WifiManager CIA",
+			"name": "WifiManager CIA by LiquidFenrir",
 			"url": "https://github.com/LiquidFenrir/WifiManager",
 			"inrelease": "WifiManager\\.cia",
 			"path": "/cias/WifiManager.cia"
