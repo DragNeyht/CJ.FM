@@ -21,24 +21,16 @@
 			"path": "ctrnand:/rw/luma/payloads/GodMode9.firm"
 		},
 		{
-			"name": "Decrypt9WIP",
-			"url": "https://github.com/d0k3/Decrypt9WIP",
-			"inrelease": "Decrypt9WIP.*\\.zip",
-			"inarchive": "Decrypt9WIP\\.firm",
-			"path": "/luma/payloads/Decrypt9WIP.firm"
-		},
-		{
-			"name": "Hourglass9",
-			"url": "https://github.com/d0k3/Hourglass9",
-			"inrelease": "Hourglass9.*\\.zip",
-			"inarchive": "Hourglass9\\.firm",
-			"path": "/luma/payloads/Hourglass9.firm"
-		},
-		{
 			"name": "ntrboot_flasher",
 			"url": "https://github.com/ntrteam/ntrboot_flasher",
 			"inrelease": "ntrboot_flasher\\.firm",
 			"path": "/luma/payloads/ntrboot_flasher.firm"
+		},
+		{
+			"name": "CartInstall by aspargas2",
+			"url": "https://github.com/aspargas2/CartInstall",
+			"inrelease": "CartInstall\\.firm",
+			"path": "/luma/payloads/CartInstall.firm"
 		},
 		{
 			"name": "",
@@ -48,7 +40,7 @@
 			"path": ""
 		},
 		{
-			"name": "config.json v1.3.4",
+			"name": "config.json v1.3.5",
 			"url": "https://github.com/DragNeyht/CJ.FM",
 			"inrelease": "config.json",
 			"path": "/3ds/MultiUpdater/config.json"
@@ -104,6 +96,18 @@
 			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
 		},
 		{
+			"name": "JKSM CIA by J-D-K",
+			"url": "https://github.com/J-D-K/JKSM",
+			"inrelease": "JKSM\\.cia",
+			"path": "/cias/JKSM.cia"
+		},
+		{
+			"name": "JKSM 3DSX by J-D-K",
+			"url": "https://github.com/J-D-K/JKSM",
+			"inrelease": "JKSM\\.3dsx",
+			"path": "/3ds/JKSM/JKSM.3dsx"
+		},
+		{
 			"name": "FBI CIA",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
@@ -140,18 +144,6 @@
 			"url": "https://github.com/FlagBrew/PKSM",
 			"inrelease": "PKSM\\.3dsx",
 			"path": "/3ds/PKSM/PKSM.3dsx"
-		},
-		{
-			"name": "QRaken CIA",
-			"url": "https://github.com/BernardoGiordano/QRaken",
-			"inrelease": "QRaken\\.cia",
-			"path": "/cias/QRaken.cia"
-		},
-		{
-			"name": "QRaken 3DSX",
-			"url": "https://github.com/FlagBrew/QRaken",
-			"inrelease": "QRaken\\.3dsx",
-			"path": "/3ds/QRaken/QRaken.3dsx"
 		},
 		{
 			"name": "Sharkive CIA",
