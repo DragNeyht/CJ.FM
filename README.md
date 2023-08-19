@@ -1,9 +1,11 @@
-# CJ.FM
+# **The project is no longer being developed and is archived. Use [Universal-Updater](https://universal-team.net/projects/universal-updater.html) instead.**
+
+## CJ.FM
 This is the config.json by DragNeyht for [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) by LiquidFenrir.
 
 ![Screenshot of MultiUpdater with my config](https://raw.githubusercontent.com/DragNeyht/CJ.FM/master/misc/img.png)
 
-# List of supported applications
+## List of supported applications
 
 * [GodMode9](https://github.com/d0k3/GodMode9) by d0k3
 * [ntrboot_flasher](https://github.com/ntrteam/ntrboot_flasher) by ntrteam
@@ -20,5 +22,5 @@ This is the config.json by DragNeyht for [MultiUpdater](https://github.com/Liqui
 * [JKSM](https://github.com/J-D-K/JKSM) by J-D-K
 * [Universal-Updater](https://github.com/Universal-Team/Universal-Updater) by Universal-Updater
 
-# License
+## License
 This project is licensed under the MIT license. A copy of which can be found in the [LICENSE file](https://github.com/DragNeyht/Multiupdater_config/blob/master/LICENSE).
